@@ -1,2 +1,12 @@
-# Laborat-rio_Intelig-ncia_Artificial
-Repositório destinado às atividades práticas desenvolvidas no laboratório da disciplina de Inteligência Artificial da Facens. Contém exercícios, projetos e experimentos realizados durante o semestre, utilizando técnicas como machine learning, redes neurais, algoritmos genéticos, entre outros.
+# 🧠 Inteligência Artificial - Facens
+
+Este repositório reúne as atividades laboratoriais realizadas na disciplina de **Inteligência Artificial** oferecida pela **Facens**.
+
+## 📚 Conteúdo
+- Implementações práticas em Python
+- Aplicação de algoritmos de IA:
+  - Machine Learning supervisionado e não supervisionado
+  - Redes Neurais
+  - Algoritmos Evolutivos
+  - Lógica Fuzzy
+- Mini-projetos integradores

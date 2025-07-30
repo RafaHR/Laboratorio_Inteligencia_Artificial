@@ -8,5 +8,4 @@ Este repositório reúne as atividades laboratoriais realizadas na disciplina de
   - Machine Learning supervisionado e não supervisionado
   - Redes Neurais
   - Algoritmos Evolutivos
-  - Lógica Fuzzy
 - Mini-projetos integradores
